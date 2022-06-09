@@ -1,0 +1,60 @@
+2022-05-31 18:41:40,135 WARN naming.distro config will be removed, please use core.protocol.distro replace.
+
+2022-05-31 18:41:40,135 WARN Using naming.distro config to replace core.distro config
+
+2022-05-31 18:41:40,203 INFO open empty service auto clean job, initialDelay : 50000 ms, period : 30000 ms
+
+2022-05-31 18:41:40,203 INFO listen for service meta change
+
+2022-05-31 18:41:40,208 INFO upgrade.state file is not exist
+
+2022-05-31 18:41:43,925 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.CmdbSelectorContextBuilder) contextType(CMDB) successfully.
+
+2022-05-31 18:41:43,925 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.NoneSelectorContextBuilder) contextType(NONE) successfully.
+
+2022-05-31 18:41:43,925 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.LabelSelector) type(label) contextType(CMDB) successfully.
+
+2022-05-31 18:41:43,925 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.NoneSelector) type(none) contextType(NONE) successfully.
+
+2022-05-31 18:41:44,562 INFO Load instance extension handler []
+
+2022-05-31 18:50:45,702 WARN naming.distro config will be removed, please use core.protocol.distro replace.
+
+2022-05-31 18:50:45,702 WARN Using naming.distro config to replace core.distro config
+
+2022-05-31 18:50:45,771 INFO open empty service auto clean job, initialDelay : 50000 ms, period : 30000 ms
+
+2022-05-31 18:50:45,771 INFO listen for service meta change
+
+2022-05-31 18:50:45,775 INFO upgrade.state file is not exist
+
+2022-05-31 18:50:48,513 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.CmdbSelectorContextBuilder) contextType(CMDB) successfully.
+
+2022-05-31 18:50:48,513 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.NoneSelectorContextBuilder) contextType(NONE) successfully.
+
+2022-05-31 18:50:48,513 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.LabelSelector) type(label) contextType(CMDB) successfully.
+
+2022-05-31 18:50:48,513 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.NoneSelector) type(none) contextType(NONE) successfully.
+
+2022-05-31 18:50:48,994 INFO Load instance extension handler []
+
+2022-05-31 19:16:11,097 INFO Client connection 1653995770990_127.0.0.1_5512 connect
+
+2022-05-31 19:16:11,240 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='coupon', ephemeral=true, revision=0}, 1653995770990_127.0.0.1_5512
+
+2022-05-31 19:16:54,993 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='coupon', ephemeral=true, revision=1}, 1653995770990_127.0.0.1_5512
+
+2022-05-31 19:16:55,304 INFO Client connection 1653995770990_127.0.0.1_5512 disconnect, remove instances and subscribers
+
+2022-05-31 19:17:10,001 INFO Client connection 1653995829925_127.0.0.1_5625 connect
+
+2022-05-31 19:17:10,153 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='coupon', ephemeral=true, revision=2}, 1653995829925_127.0.0.1_5625
+
+2022-05-31 21:50:02,387 INFO Client connection 1654005002318_127.0.0.1_11592 connect
+
+2022-05-31 21:50:02,535 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='product', ephemeral=true, revision=0}, 1654005002318_127.0.0.1_11592
+
+2022-05-31 21:57:26,112 INFO Client connection 1654005446039_127.0.0.1_11949 connect
+
+2022-05-31 21:57:26,264 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='ware', ephemeral=true, revision=0}, 1654005446039_127.0.0.1_11949
+

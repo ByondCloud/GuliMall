@@ -1,0 +1,16 @@
+2022-05-31 19:16:11,240 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='coupon', ephemeral=true, revision=1}
+
+2022-05-31 19:16:12,419 INFO [PUSH-SUCC] 717ms, all delay time 1228ms, SLA 1179ms, Service{namespace='public', group='DEFAULT_GROUP', name='coupon', ephemeral=true, revision=1}, DataSize=1, target=169.254.11.132
+
+2022-05-31 19:17:10,153 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='coupon', ephemeral=true, revision=3}
+
+2022-05-31 19:17:10,680 INFO [PUSH-SUCC] 14ms, all delay time 568ms, SLA 527ms, Service{namespace='public', group='DEFAULT_GROUP', name='coupon', ephemeral=true, revision=3}, DataSize=1, target=169.254.11.132
+
+2022-05-31 21:50:02,535 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='product', ephemeral=true, revision=1}
+
+2022-05-31 21:50:03,097 INFO [PUSH-SUCC] 13ms, all delay time 601ms, SLA 562ms, Service{namespace='public', group='DEFAULT_GROUP', name='product', ephemeral=true, revision=1}, DataSize=1, target=169.254.11.132
+
+2022-05-31 21:57:26,264 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='ware', ephemeral=true, revision=1}
+
+2022-05-31 21:57:26,754 INFO [PUSH-SUCC] 13ms, all delay time 532ms, SLA 490ms, Service{namespace='public', group='DEFAULT_GROUP', name='ware', ephemeral=true, revision=1}, DataSize=1, target=169.254.11.132
+

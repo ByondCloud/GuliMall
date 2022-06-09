@@ -1,0 +1,30 @@
+2022-06-02 10:38:08,070 INFO [dump-task] add task. groupKey=datasource.yml+dev+6d1c3e6a-9350-46d9-9198-e38a0641bae2, taskKey=datasource.yml+dev+6d1c3e6a-9350-46d9-9198-e38a0641bae2+false+null
+
+2022-06-02 10:39:00,042 INFO [dump-task] add task. groupKey=mybatis.yml+dev+6d1c3e6a-9350-46d9-9198-e38a0641bae2, taskKey=mybatis.yml+dev+6d1c3e6a-9350-46d9-9198-e38a0641bae2+false+null
+
+2022-06-02 10:41:00,309 INFO [dump-task] add task. groupKey=other.yml+dev+6d1c3e6a-9350-46d9-9198-e38a0641bae2, taskKey=other.yml+dev+6d1c3e6a-9350-46d9-9198-e38a0641bae2+false+null
+
+2022-06-02 10:54:41,950 INFO [dump-task] add task. groupKey=coupon.properties+DEFAULT_GROUP+6d1c3e6a-9350-46d9-9198-e38a0641bae2, taskKey=coupon.properties+DEFAULT_GROUP+6d1c3e6a-9350-46d9-9198-e38a0641bae2+false+null
+
+2022-06-02 10:55:15,224 INFO [dump-task] add task. groupKey=coupon.properties+DEFAULT_GROUP+6d1c3e6a-9350-46d9-9198-e38a0641bae2, taskKey=coupon.properties+DEFAULT_GROUP+6d1c3e6a-9350-46d9-9198-e38a0641bae2+false+null
+
+2022-06-02 10:55:19,867 INFO [dump-task] add task. groupKey=coupon.properties+DEFAULT_GROUP+6d1c3e6a-9350-46d9-9198-e38a0641bae2, taskKey=coupon.properties+DEFAULT_GROUP+6d1c3e6a-9350-46d9-9198-e38a0641bae2+false+null
+
+2022-06-02 10:55:57,904 INFO [dump-task] add task. groupKey=coupon.properties+dev+6d1c3e6a-9350-46d9-9198-e38a0641bae2, taskKey=coupon.properties+dev+6d1c3e6a-9350-46d9-9198-e38a0641bae2+false+null
+
+2022-06-02 18:38:41,355 INFO [dump-all-ok] coupon.properties+DEFAULT_GROUP, 1654092848005, length=50, md5=bdfdaa0c6c41b7a04736e5b38aa5e5fb
+
+2022-06-02 18:38:41,357 INFO [dump-all-ok] coupon.properties+DEFAULT_GROUP, 1654093498902, length=44, md5=dcad13fc55169bb197df8d31f8a81857
+
+2022-06-02 18:38:41,357 INFO [dump-all-ok] coupon.properties+1111, 1654097171460, length=41, md5=43e353a4ca3b5d71df1659140138583b
+
+2022-06-02 18:38:41,358 INFO [dump-all-ok] datasource.yml+dev, 1654137488068, length=250, md5=e56406ac8167192940f91544f10568d4
+
+2022-06-02 18:38:41,358 INFO [dump-all-ok] mybatis.yml+dev, 1654137540038, length=146, md5=ce7179100f21977fbb663892786d4537
+
+2022-06-02 18:38:41,359 INFO [dump-all-ok] other.yml+dev, 1654137660307, length=145, md5=8ca02056122be05662e94f9d58e137f1
+
+2022-06-02 18:38:41,359 INFO [dump-all-ok] coupon.properties+dev, 1654138557902, length=47, md5=df3d3f645aae66bbf934918fae7578d4
+
+2022-06-02 18:41:15,396 INFO [dump-task] add task. groupKey=gateway.yml+DEFAULT_GROUP+18f292e3-c3a0-439f-a2f0-317b24790366, taskKey=gateway.yml+DEFAULT_GROUP+18f292e3-c3a0-439f-a2f0-317b24790366+false+null
+

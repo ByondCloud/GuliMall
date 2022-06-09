@@ -1,0 +1,36 @@
+2022-05-31 18:41:43,959 INFO Initializes the Raft protocol, raft-config info : {}
+
+2022-05-31 18:41:44,067 INFO ========= The raft protocol is starting... =========
+
+2022-05-31 18:41:44,084 INFO ========= The raft protocol start finished... =========
+
+2022-05-31 18:41:44,106 INFO create raft group : naming_persistent_service_v2
+
+2022-05-31 18:41:44,329 INFO This Raft event changes : RaftEvent{groupId='naming_persistent_service_v2', leader='169.254.11.132:7848', term=1, raftClusterInfo=[169.254.11.132:7848]}
+
+2022-05-31 18:41:44,331 INFO create raft group : naming_instance_metadata
+
+2022-05-31 18:41:44,403 INFO This Raft event changes : RaftEvent{groupId='naming_instance_metadata', leader='169.254.11.132:7848', term=1, raftClusterInfo=[169.254.11.132:7848]}
+
+2022-05-31 18:41:44,405 INFO create raft group : naming_service_metadata
+
+2022-05-31 18:41:44,473 INFO This Raft event changes : RaftEvent{groupId='naming_service_metadata', leader='169.254.11.132:7848', term=1, raftClusterInfo=[169.254.11.132:7848]}
+
+2022-05-31 18:50:48,541 INFO Initializes the Raft protocol, raft-config info : {}
+
+2022-05-31 18:50:48,632 INFO ========= The raft protocol is starting... =========
+
+2022-05-31 18:50:48,645 INFO ========= The raft protocol start finished... =========
+
+2022-05-31 18:50:48,656 INFO create raft group : naming_persistent_service_v2
+
+2022-05-31 18:50:48,833 INFO This Raft event changes : RaftEvent{groupId='naming_persistent_service_v2', leader='169.254.11.132:7848', term=2, raftClusterInfo=[169.254.11.132:7848]}
+
+2022-05-31 18:50:48,836 INFO create raft group : naming_instance_metadata
+
+2022-05-31 18:50:48,879 INFO This Raft event changes : RaftEvent{groupId='naming_instance_metadata', leader='169.254.11.132:7848', term=2, raftClusterInfo=[169.254.11.132:7848]}
+
+2022-05-31 18:50:48,879 INFO create raft group : naming_service_metadata
+
+2022-05-31 18:50:48,922 INFO This Raft event changes : RaftEvent{groupId='naming_service_metadata', leader='169.254.11.132:7848', term=2, raftClusterInfo=[169.254.11.132:7848]}
+

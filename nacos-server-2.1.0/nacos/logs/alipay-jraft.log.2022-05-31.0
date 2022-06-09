@@ -1,0 +1,180 @@
+2022-05-31 18:41:43,979 INFO SPI service [com.alipay.sofa.jraft.JRaftServiceFactory - com.alipay.sofa.jraft.core.DefaultJRaftServiceFactory] loading.
+
+2022-05-31 18:41:44,014 INFO SPI service [com.alipay.sofa.jraft.rpc.RaftRpcFactory - com.alipay.sofa.jraft.rpc.impl.GrpcRaftRpcFactory] loading.
+
+2022-05-31 18:41:44,115 INFO SPI service [com.alipay.sofa.jraft.util.timer.RaftTimerFactory - com.alipay.sofa.jraft.util.timer.DefaultRaftTimerFactory] loading.
+
+2022-05-31 18:41:44,118 INFO The number of active nodes increment to 1.
+
+2022-05-31 18:41:44,273 INFO Starts FSMCaller successfully.
+
+2022-05-31 18:41:44,279 WARN No data for snapshot reader C:\Users\KK\Desktop\GuliMall\nacos-server-2.1.0\nacos\data\protocol\raft\naming_persistent_service_v2\snapshot.
+
+2022-05-31 18:41:44,290 INFO Node <naming_persistent_service_v2/169.254.11.132:7848> init, term=0, lastLogId=LogId [index=0, term=0], conf=169.254.11.132:7848, oldConf=.
+
+2022-05-31 18:41:44,292 INFO Node <naming_persistent_service_v2/169.254.11.132:7848> start vote and grant vote self, term=0.
+
+2022-05-31 18:41:44,311 WARN Unable to fsync directory C:\Users\KK\Desktop\GuliMall\nacos-server-2.1.0\nacos\data\protocol\raft\naming_persistent_service_v2\meta-data on windows.
+
+2022-05-31 18:41:44,315 INFO Save raft meta, path=C:\Users\KK\Desktop\GuliMall\nacos-server-2.1.0\nacos\data\protocol\raft\naming_persistent_service_v2\meta-data, term=1, votedFor=169.254.11.132:7848, cost time=19 ms
+
+2022-05-31 18:41:44,315 INFO Node <naming_persistent_service_v2/169.254.11.132:7848> become leader of group, term=1, conf=169.254.11.132:7848, oldConf=.
+
+2022-05-31 18:41:44,317 INFO -Djraft.recyclers.maxCapacityPerThread: 4096.
+
+2022-05-31 18:41:44,319 WARN RPC server is not started in RaftGroupService.
+
+2022-05-31 18:41:44,319 INFO Start the RaftGroupService successfully.
+
+2022-05-31 18:41:44,328 INFO onLeaderStart: term=1.
+
+2022-05-31 18:41:44,331 INFO The number of active nodes increment to 2.
+
+2022-05-31 18:41:44,372 WARN Channel in TRANSIENT_FAILURE state: 169.254.11.132:7848.
+
+2022-05-31 18:41:44,372 WARN Channel in SHUTDOWN state: 169.254.11.132:7848.
+
+2022-05-31 18:41:44,388 INFO Starts FSMCaller successfully.
+
+2022-05-31 18:41:44,389 WARN No data for snapshot reader C:\Users\KK\Desktop\GuliMall\nacos-server-2.1.0\nacos\data\protocol\raft\naming_instance_metadata\snapshot.
+
+2022-05-31 18:41:44,390 INFO Node <naming_instance_metadata/169.254.11.132:7848> init, term=0, lastLogId=LogId [index=0, term=0], conf=169.254.11.132:7848, oldConf=.
+
+2022-05-31 18:41:44,390 INFO Node <naming_instance_metadata/169.254.11.132:7848> start vote and grant vote self, term=0.
+
+2022-05-31 18:41:44,399 WARN Unable to fsync directory C:\Users\KK\Desktop\GuliMall\nacos-server-2.1.0\nacos\data\protocol\raft\naming_instance_metadata\meta-data on windows.
+
+2022-05-31 18:41:44,399 INFO Save raft meta, path=C:\Users\KK\Desktop\GuliMall\nacos-server-2.1.0\nacos\data\protocol\raft\naming_instance_metadata\meta-data, term=1, votedFor=169.254.11.132:7848, cost time=8 ms
+
+2022-05-31 18:41:44,399 INFO Node <naming_instance_metadata/169.254.11.132:7848> become leader of group, term=1, conf=169.254.11.132:7848, oldConf=.
+
+2022-05-31 18:41:44,399 WARN RPC server is not started in RaftGroupService.
+
+2022-05-31 18:41:44,399 INFO Start the RaftGroupService successfully.
+
+2022-05-31 18:41:44,402 INFO onLeaderStart: term=1.
+
+2022-05-31 18:41:44,405 INFO The number of active nodes increment to 3.
+
+2022-05-31 18:41:44,459 INFO Starts FSMCaller successfully.
+
+2022-05-31 18:41:44,459 WARN No data for snapshot reader C:\Users\KK\Desktop\GuliMall\nacos-server-2.1.0\nacos\data\protocol\raft\naming_service_metadata\snapshot.
+
+2022-05-31 18:41:44,460 INFO Node <naming_service_metadata/169.254.11.132:7848> init, term=0, lastLogId=LogId [index=0, term=0], conf=169.254.11.132:7848, oldConf=.
+
+2022-05-31 18:41:44,460 INFO Node <naming_service_metadata/169.254.11.132:7848> start vote and grant vote self, term=0.
+
+2022-05-31 18:41:44,469 WARN Unable to fsync directory C:\Users\KK\Desktop\GuliMall\nacos-server-2.1.0\nacos\data\protocol\raft\naming_service_metadata\meta-data on windows.
+
+2022-05-31 18:41:44,469 INFO Save raft meta, path=C:\Users\KK\Desktop\GuliMall\nacos-server-2.1.0\nacos\data\protocol\raft\naming_service_metadata\meta-data, term=1, votedFor=169.254.11.132:7848, cost time=9 ms
+
+2022-05-31 18:41:44,469 INFO Node <naming_service_metadata/169.254.11.132:7848> become leader of group, term=1, conf=169.254.11.132:7848, oldConf=.
+
+2022-05-31 18:41:44,470 WARN RPC server is not started in RaftGroupService.
+
+2022-05-31 18:41:44,470 INFO Start the RaftGroupService successfully.
+
+2022-05-31 18:41:44,473 INFO onLeaderStart: term=1.
+
+2022-05-31 18:50:48,558 INFO SPI service [com.alipay.sofa.jraft.JRaftServiceFactory - com.alipay.sofa.jraft.core.DefaultJRaftServiceFactory] loading.
+
+2022-05-31 18:50:48,588 INFO SPI service [com.alipay.sofa.jraft.rpc.RaftRpcFactory - com.alipay.sofa.jraft.rpc.impl.GrpcRaftRpcFactory] loading.
+
+2022-05-31 18:50:48,665 INFO SPI service [com.alipay.sofa.jraft.util.timer.RaftTimerFactory - com.alipay.sofa.jraft.util.timer.DefaultRaftTimerFactory] loading.
+
+2022-05-31 18:50:48,668 INFO The number of active nodes increment to 1.
+
+2022-05-31 18:50:48,790 INFO Starts FSMCaller successfully.
+
+2022-05-31 18:50:48,795 WARN No data for snapshot reader C:\Users\KK\Desktop\GuliMall\nacos-server-2.1.0\nacos\data\protocol\raft\naming_persistent_service_v2\snapshot.
+
+2022-05-31 18:50:48,795 INFO Node <naming_persistent_service_v2/169.254.11.132:7848> target priority value has changed from: 0, to: -1.
+
+2022-05-31 18:50:48,805 INFO Node <naming_persistent_service_v2/169.254.11.132:7848> init, term=1, lastLogId=LogId [index=1, term=1], conf=169.254.11.132:7848, oldConf=.
+
+2022-05-31 18:50:48,806 INFO Node <naming_persistent_service_v2/169.254.11.132:7848> start vote and grant vote self, term=1.
+
+2022-05-31 18:50:48,821 WARN Unable to fsync directory C:\Users\KK\Desktop\GuliMall\nacos-server-2.1.0\nacos\data\protocol\raft\naming_persistent_service_v2\meta-data on windows.
+
+2022-05-31 18:50:48,824 INFO Save raft meta, path=C:\Users\KK\Desktop\GuliMall\nacos-server-2.1.0\nacos\data\protocol\raft\naming_persistent_service_v2\meta-data, term=2, votedFor=169.254.11.132:7848, cost time=14 ms
+
+2022-05-31 18:50:48,825 INFO Node <naming_persistent_service_v2/169.254.11.132:7848> become leader of group, term=2, conf=169.254.11.132:7848, oldConf=.
+
+2022-05-31 18:50:48,826 INFO -Djraft.recyclers.maxCapacityPerThread: 4096.
+
+2022-05-31 18:50:48,827 WARN RPC server is not started in RaftGroupService.
+
+2022-05-31 18:50:48,827 INFO Start the RaftGroupService successfully.
+
+2022-05-31 18:50:48,833 INFO onLeaderStart: term=2.
+
+2022-05-31 18:50:48,836 INFO The number of active nodes increment to 2.
+
+2022-05-31 18:50:48,870 WARN Channel in TRANSIENT_FAILURE state: 169.254.11.132:7848.
+
+2022-05-31 18:50:48,870 WARN Channel in SHUTDOWN state: 169.254.11.132:7848.
+
+2022-05-31 18:50:48,871 INFO Starts FSMCaller successfully.
+
+2022-05-31 18:50:48,871 WARN No data for snapshot reader C:\Users\KK\Desktop\GuliMall\nacos-server-2.1.0\nacos\data\protocol\raft\naming_instance_metadata\snapshot.
+
+2022-05-31 18:50:48,871 INFO Node <naming_instance_metadata/169.254.11.132:7848> target priority value has changed from: 0, to: -1.
+
+2022-05-31 18:50:48,872 INFO Node <naming_instance_metadata/169.254.11.132:7848> init, term=1, lastLogId=LogId [index=1, term=1], conf=169.254.11.132:7848, oldConf=.
+
+2022-05-31 18:50:48,872 INFO Node <naming_instance_metadata/169.254.11.132:7848> start vote and grant vote self, term=1.
+
+2022-05-31 18:50:48,877 WARN Unable to fsync directory C:\Users\KK\Desktop\GuliMall\nacos-server-2.1.0\nacos\data\protocol\raft\naming_instance_metadata\meta-data on windows.
+
+2022-05-31 18:50:48,877 INFO Save raft meta, path=C:\Users\KK\Desktop\GuliMall\nacos-server-2.1.0\nacos\data\protocol\raft\naming_instance_metadata\meta-data, term=2, votedFor=169.254.11.132:7848, cost time=4 ms
+
+2022-05-31 18:50:48,877 INFO Node <naming_instance_metadata/169.254.11.132:7848> become leader of group, term=2, conf=169.254.11.132:7848, oldConf=.
+
+2022-05-31 18:50:48,877 WARN RPC server is not started in RaftGroupService.
+
+2022-05-31 18:50:48,877 INFO Start the RaftGroupService successfully.
+
+2022-05-31 18:50:48,879 INFO onLeaderStart: term=2.
+
+2022-05-31 18:50:48,880 INFO The number of active nodes increment to 3.
+
+2022-05-31 18:50:48,914 INFO Starts FSMCaller successfully.
+
+2022-05-31 18:50:48,914 WARN No data for snapshot reader C:\Users\KK\Desktop\GuliMall\nacos-server-2.1.0\nacos\data\protocol\raft\naming_service_metadata\snapshot.
+
+2022-05-31 18:50:48,915 INFO Node <naming_service_metadata/169.254.11.132:7848> target priority value has changed from: 0, to: -1.
+
+2022-05-31 18:50:48,915 INFO Node <naming_service_metadata/169.254.11.132:7848> init, term=1, lastLogId=LogId [index=1, term=1], conf=169.254.11.132:7848, oldConf=.
+
+2022-05-31 18:50:48,915 INFO Node <naming_service_metadata/169.254.11.132:7848> start vote and grant vote self, term=1.
+
+2022-05-31 18:50:48,920 WARN Unable to fsync directory C:\Users\KK\Desktop\GuliMall\nacos-server-2.1.0\nacos\data\protocol\raft\naming_service_metadata\meta-data on windows.
+
+2022-05-31 18:50:48,920 INFO Save raft meta, path=C:\Users\KK\Desktop\GuliMall\nacos-server-2.1.0\nacos\data\protocol\raft\naming_service_metadata\meta-data, term=2, votedFor=169.254.11.132:7848, cost time=5 ms
+
+2022-05-31 18:50:48,920 INFO Node <naming_service_metadata/169.254.11.132:7848> become leader of group, term=2, conf=169.254.11.132:7848, oldConf=.
+
+2022-05-31 18:50:48,920 WARN RPC server is not started in RaftGroupService.
+
+2022-05-31 18:50:48,920 INFO Start the RaftGroupService successfully.
+
+2022-05-31 18:50:48,922 INFO onLeaderStart: term=2.
+
+2022-05-31 19:05:54,347 WARN Unable to fsync directory C:\Users\KK\Desktop\GuliMall\nacos-server-2.1.0\nacos\data\protocol\raft\naming_service_metadata\snapshot\temp on windows.
+
+2022-05-31 19:05:54,347 INFO Deleting snapshot C:\Users\KK\Desktop\GuliMall\nacos-server-2.1.0\nacos\data\protocol\raft\naming_service_metadata\snapshot\snapshot_2.
+
+2022-05-31 19:05:54,347 INFO Renaming C:\Users\KK\Desktop\GuliMall\nacos-server-2.1.0\nacos\data\protocol\raft\naming_service_metadata\snapshot\temp to C:\Users\KK\Desktop\GuliMall\nacos-server-2.1.0\nacos\data\protocol\raft\naming_service_metadata\snapshot\snapshot_2.
+
+2022-05-31 19:15:45,499 WARN Unable to fsync directory C:\Users\KK\Desktop\GuliMall\nacos-server-2.1.0\nacos\data\protocol\raft\naming_instance_metadata\snapshot\temp on windows.
+
+2022-05-31 19:15:45,499 INFO Deleting snapshot C:\Users\KK\Desktop\GuliMall\nacos-server-2.1.0\nacos\data\protocol\raft\naming_instance_metadata\snapshot\snapshot_2.
+
+2022-05-31 19:15:45,499 INFO Renaming C:\Users\KK\Desktop\GuliMall\nacos-server-2.1.0\nacos\data\protocol\raft\naming_instance_metadata\snapshot\temp to C:\Users\KK\Desktop\GuliMall\nacos-server-2.1.0\nacos\data\protocol\raft\naming_instance_metadata\snapshot\snapshot_2.
+
+2022-05-31 19:18:55,676 WARN Unable to fsync directory C:\Users\KK\Desktop\GuliMall\nacos-server-2.1.0\nacos\data\protocol\raft\naming_persistent_service_v2\snapshot\temp on windows.
+
+2022-05-31 19:18:55,676 INFO Deleting snapshot C:\Users\KK\Desktop\GuliMall\nacos-server-2.1.0\nacos\data\protocol\raft\naming_persistent_service_v2\snapshot\snapshot_2.
+
+2022-05-31 19:18:55,676 INFO Renaming C:\Users\KK\Desktop\GuliMall\nacos-server-2.1.0\nacos\data\protocol\raft\naming_persistent_service_v2\snapshot\temp to C:\Users\KK\Desktop\GuliMall\nacos-server-2.1.0\nacos\data\protocol\raft\naming_persistent_service_v2\snapshot\snapshot_2.
+

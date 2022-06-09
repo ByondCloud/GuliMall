@@ -1,0 +1,26 @@
+2022-06-01 21:41:51,820 INFO [dump-task] add task. groupKey=application.properties+DEFAULT_GROUP, taskKey=application.properties+DEFAULT_GROUP++false+null
+
+2022-06-01 21:43:03,064 INFO [dump-all-ok] application.properties+DEFAULT_GROUP, 1654090911795, length=47, md5=6b6d7df056d809796ed9cf616190e4c1
+
+2022-06-01 21:43:15,716 INFO [dump-task] add task. groupKey=application.properties+DEFAULT_GROUP, taskKey=application.properties+DEFAULT_GROUP++false+null
+
+2022-06-01 22:06:30,063 INFO [dump-task] add task. groupKey=application.properties+DEFAULT_GROUP, taskKey=application.properties+DEFAULT_GROUP++false+null
+
+2022-06-01 22:10:10,004 INFO [dump-all-ok] application.properties+DEFAULT_GROUP, 1654092390056, length=47, md5=5d956a992a6815d7fbb20a2b4b6be76f
+
+2022-06-01 22:11:56,198 INFO [dump-task] add task. groupKey=application.properties+DEFAULT_GROUP, taskKey=application.properties+DEFAULT_GROUP++false+null
+
+2022-06-01 22:12:30,285 INFO [dump-task] add task. groupKey=coupon.properties+DEFAULT_GROUP, taskKey=coupon.properties+DEFAULT_GROUP++false+null
+
+2022-06-01 22:14:08,018 INFO [dump-task] add task. groupKey=coupon.properties+DEFAULT_GROUP, taskKey=coupon.properties+DEFAULT_GROUP++false+null
+
+2022-06-01 22:24:58,908 INFO [dump-task] add task. groupKey=coupon.properties+DEFAULT_GROUP+c066e14f-2c1f-43d3-b786-3e8217886915, taskKey=coupon.properties+DEFAULT_GROUP+c066e14f-2c1f-43d3-b786-3e8217886915+false+null
+
+2022-06-01 22:30:30,031 INFO [dump-task] add task. groupKey=coupon.properties+DEFAULT_GROUP+6d1c3e6a-9350-46d9-9198-e38a0641bae2, taskKey=coupon.properties+DEFAULT_GROUP+6d1c3e6a-9350-46d9-9198-e38a0641bae2+false+null
+
+2022-06-01 22:31:00,647 INFO [dump-task] add task. groupKey=coupon.properties+DEFAULT_GROUP+6d1c3e6a-9350-46d9-9198-e38a0641bae2, taskKey=coupon.properties+DEFAULT_GROUP+6d1c3e6a-9350-46d9-9198-e38a0641bae2+false+null
+
+2022-06-01 22:37:38,924 INFO [dump-task] add task. groupKey=coupon.properties+1111, taskKey=coupon.properties+1111++false+null
+
+2022-06-01 23:26:11,463 INFO [dump-task] add task. groupKey=coupon.properties+1111, taskKey=coupon.properties+1111++false+null
+
